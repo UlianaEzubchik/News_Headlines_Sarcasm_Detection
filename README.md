@@ -46,6 +46,18 @@ pip install pandas tensorflow matplotlib scikit-learn
 
 ---
 
+## Dataset
+Each record consists of three attributes:
+- ```is_sarcastic```: 1 if the record is sarcastic otherwise 0
+- ```headline```: the headline of the news article
+- ```article_link```: link to the original news article. Useful for collecting supplementary data
 
+[![Back to Top](https://img.shields.io/badge/-Back_to_Top-blue?style=flat-square)](#table-of-contents)
 
+---
 
+## Contact
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ulyana-yezubchyk/)](https://www.linkedin.com/in/ulyana-yezubchyk/)
+[![Email](https://img.shields.io/badge/Email-ulyaa.071@gmail.com-green.svg)](mailto:your_email@example.com)
+
+---
