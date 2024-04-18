@@ -4,13 +4,8 @@ This project aims to build a neural network model to detect sarcasm in news head
 ## Table of Contents
 - [Introduction](#introduction)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Dataset](#dataset)
-- [Model Architecture](#model-architecture)
-- [Training](#training)
-- [Evaluation](#evaluation)
-- [Example Prediction](#example-prediction)
-- [License](#license)
+- [Contact](#contact)
 
 ## Introduction
 Sarcasm detection is an important task in natural language processing (NLP) and can have applications in various fields such as sentiment analysis, social media monitoring, and news aggregation.
@@ -18,6 +13,9 @@ The goal of this project is to build a model that can accurately classify news h
 By utilizing this model, users can gain insights into the tone and sentiment of news articles, helping to identify sarcastic content and improve the overall understanding of news headlines.
 
 ## Installation
+### Dataset:
+- [News Headlines Dataset For Sarcasm Detection](https://www.kaggle.com/datasets/rmisra/news-headlines-dataset-for-sarcasm-detection)
+  
 ### Dependencies:
 - [Python 3.x](https://www.python.org/)
 - [Pandas](https://pandas.pydata.org/)
@@ -29,8 +27,6 @@ You can install the required Python packages using pip:
 ```
 pip install pandas tensorflow matplotlib scikit-learn
 ```
-### Dataset:
-- [News Headlines Dataset For Sarcasm Detection](https://www.kaggle.com/datasets/rmisra/news-headlines-dataset-for-sarcasm-detection)
 
 ## Dataset
 Each record consists of three attributes:
